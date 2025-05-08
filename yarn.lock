@@ -8282,7 +8282,7 @@ react-scroll@^1.9.3:
     react-router-dom "^7.5.3"
     react-scripts "5.0.1"
     react-scroll "^1.9.3"
-    react-tailwindcss-portfolio "file:../../../../AppData/Local/Yarn/Cache/v6/npm-react-tailwindcss-portfolio-0.1.0-ab8800a8-544a-4706-af0e-e8fae61d3b9b-1746669621188/node_modules/react-tailwindcss-portfolio"
+    react-tailwindcss-portfolio "file:../../../../AppData/Local/Yarn/Cache/v6/npm-react-tailwindcss-portfolio-0.1.0-302839f1-2452-4040-8aeb-9a47496e38d0-1746671935937/node_modules/react-tailwindcss-portfolio"
     styled-components "^6.1.17"
     web-vitals "^5.0.0"
 
