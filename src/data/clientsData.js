@@ -8,47 +8,27 @@ import SamsungImage from '../images/brands/samsung_gray.png';
 import CanonImage from '../images/brands/canon_gray.png';
 import PumaImage from '../images/brands/puma_gray.png';
 
-export const clientsHeading = 'Some of the brands that trust me';
+export const clientsHeading = 'Some of the companies that have trust me';
 
 export const clientsData = [
 	{
 		id: 1,
-		title: 'Amazon',
-		img: AmazonImage,
+		title: 'Resilient Coders',
+		img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR09ZEmEF5c-Wqim0HCIA9YOXkvPIpjYmbMXA&s",
 	},
 	{
 		id: 2,
-		title: 'Sony',
-		img: SonyImage,
+		title: 'MassMutual',
+		img: "https://logosandtypes.com/wp-content/uploads/2022/04/MassMutual.png",
 	},
 	{
 		id: 3,
-		title: 'Adidas',
-		img: AdidasImage,
+		title: 'Collins Aerospace',
+		img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGagM9Sl5N1I20LOzyPr_Xt4NbrknOGJrjg&s",
 	},
 	{
 		id: 4,
-		title: 'FILA',
-		img: FilaImage,
-	},
-	{
-		id: 5,
-		title: 'NB',
-		img: NBImage,
-	},
-	{
-		id: 6,
-		title: 'SAMSUNG',
-		img: SamsungImage,
-	},
-	{
-		id: 7,
-		title: 'CANON',
-		img: CanonImage,
-	},
-	{
-		id: 8,
-		title: 'PUMA',
-		img: PumaImage,
+		title: 'Elms College',
+		img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtTU2fCpcNcH2kGX5XLIBC1ksGgt_MLVrTw&s",
 	},
 ];

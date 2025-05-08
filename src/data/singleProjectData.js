@@ -16,8 +16,8 @@ import {
 
 export const singleProjectData = {
 	ProjectHeader: {
-		title: 'Project Management UI',
-		publishDate: 'Jul 26, 2021',
+		title: 'SHAPIIE',
+		publishDate: 'Currently',
 		tags: 'UI / Frontend',
 	},
 	ProjectImages: [
@@ -43,27 +43,17 @@ export const singleProjectData = {
 			{
 				id: 1,
 				title: 'Name',
-				details: 'Company Ltd',
+				details: 'SHAPIIE',
 			},
 			{
 				id: 2,
 				title: 'Services',
-				details: 'UI Design & Frontend Development',
-			},
-			{
-				id: 3,
-				title: 'Website',
-				details: 'https://company.com',
-			},
-			{
-				id: 4,
-				title: 'Phone',
-				details: '555 8888 888',
+				details: 'Full Stack Development',
 			},
 		],
 		ObjectivesHeading: 'Objective',
 		ObjectivesDetails:
-			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+			'Shapiie is a carefully curated online boutique offering a stylish selection of clothing and unique lifestyle items. Our clothing range features [mention a few style keywords, e.g., contemporary basics, bohemian pieces, minimalist designs] sourced for their quality and aesthetic. Beyond apparel, Shapiie presents a collection of thoughtfully chosen that complement modern living. ',
 		Technologies: [
 			{
 				title: 'Tools & Technologies',
@@ -82,22 +72,17 @@ export const singleProjectData = {
 			{
 				id: 1,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+					'Platform Selection and Integration: Choosing the right e-commerce platform (Shopify, WooCommerce, custom development) and integrating it seamlessly with other necessary tools (payment gateways, shipping providers, marketing automation) can be complex. Ensuring compatibility and smooth data flow is crucial.',
 			},
 			{
 				id: 2,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+					'Website Performance and Scalability: Optimizing the website for speed and ensuring it can handle increasing traffic and product listings as Shapiie grows is vital. Slow loading times can lead to high bounce rates and lost sales',
 			},
 			{
 				id: 3,
 				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
-			},
-			{
-				id: 4,
-				details:
-					'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+					'Security: Protecting customer data (payment information, personal details) is paramount. Implementing robust security measures to prevent breaches and comply with data privacy regulations (like GDPR or CCPA) is a significant responsibility.',
 			},
 		],
 		SocialSharingHeading: 'Share This',
@@ -109,28 +94,10 @@ export const singleProjectData = {
 				url: 'https://twitter.com/realstoman',
 			},
 			{
-				id: 2,
-				name: 'Instagram',
-				icon: <FiInstagram />,
-				url: 'https://instagram.com/realstoman',
-			},
-			{
-				id: 3,
-				name: 'Facebook',
-				icon: <FiFacebook />,
-				url: 'https://facebook.com/',
-			},
-			{
 				id: 4,
 				name: 'LinkedIn',
 				icon: <FiLinkedin />,
 				url: 'https://linkedin.com/',
-			},
-			{
-				id: 5,
-				name: 'Youtube',
-				icon: <FiYoutube />,
-				url: 'https://www.youtube.com/c/StomanStudio',
 			},
 		],
 	},
