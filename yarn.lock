@@ -8436,7 +8436,7 @@ react-scroll@^1.9.3:
     react-router-dom "^7.5.3"
     react-scripts "5.0.1"
     react-scroll "^1.9.3"
-    react-tailwindcss-portfolio "file:../../../../AppData/Local/Yarn/Cache/v6/npm-react-tailwindcss-portfolio-0.1.0-2f3cf542-35dd-482a-88e3-dcc9823d869c-1746776422172/node_modules/react-tailwindcss-portfolio"
+    react-tailwindcss-portfolio "file:../../../../AppData/Local/Yarn/Cache/v6/npm-react-tailwindcss-portfolio-0.1.0-89bcd3f2-d0e2-415a-b243-30e0ef5c41e7-1746776793972/node_modules/react-tailwindcss-portfolio"
     styled-components "^6.1.17"
     web-vitals "^5.0.0"
 
@@ -8910,7 +8910,7 @@ serve-static@1.16.2:
 
 serve@^14.2.4:
   version "14.2.4"
-  resolved "https://registry.npmjs.org/serve/-/serve-14.2.4.tgz"
+  resolved "https://registry.yarnpkg.com/serve/-/serve-14.2.4.tgz#ba4c425c3c965f496703762e808f34b913f42fb0"
   integrity sha512-qy1S34PJ/fcY8gjVGszDB3EXiPSk5FKhUa7tQe0UPRddxRidc2V6cNHPNewbE1D7MAkgLuWEt3Vw56vYy73tzQ==
   dependencies:
     "@zeit/schemas" "2.36.0"
