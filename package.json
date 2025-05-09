@@ -16,12 +16,13 @@
 		"react-scripts": "5.0.1",
 		"react-scroll": "^1.9.3",
 		"react-tailwindcss-portfolio": "file:",
+		"serve": "^14.2.4",
 		"styled-components": "^6.1.17",
 		"web-vitals": "^5.0.0"
 	},
 	"scripts": {
 		"start": "react-scripts --openssl-legacy-provider start",
-		"build": "CI=false yarn run react-scripts build",
+		"build": "cross-env CI=false react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject"
 	},
