@@ -9,37 +9,42 @@ import UIImage2 from '../images/weatherApp.png';
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'Roomie Link',
 		category: 'Web Application',
 		img: WebImage1,
 		ProjectHeader: {
-			title: 'Project Management UI - From Context',
-			publishDate: 'Jul 26, 2021',
+			title: 'Full stack',
+			publishDate: 'Currently',
 			tags: 'UI / Frontend',
 		},
+		link: "https://github.com/JRzo/roomie-link"
 	},
 	{
 		id: 2,
 		title: 'Contact Book',
 		category: 'Full Stack',
 		img: MobileImage2,
+		link: "https://contact-book-app-65fbe047d847.herokuapp.com/"
 	},
 	{
 		id: 3,
 		title: 'Weather App',
 		category: 'Front End + UI/UX Design',
 		img: UIImage2,
+		link: "https://github.com/JRzo/Weather-App"
 	},
 	{
 		id: 4,
 		title: 'Resources Tracker',
 		category: 'Full Stack Application',
 		img: MobileImage1,
+		link: "https://resource-tracker-1574ccab6559.herokuapp.com/"
 	},
 	{
 		id: 5,
 		title: 'NBA Playoffs Prediction',
 		category: 'Full Stack Application',
 		img: WebImage2,
+		link: "https://basketball-prediction-b13e6353873b.herokuapp.com/"
 	},
 ];
